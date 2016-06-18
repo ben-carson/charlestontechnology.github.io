@@ -1,4 +1,7 @@
 ---
 name: Ben Carson
-github: catsandcode
+github: ben-carson
+twitter: catsandcode
+linkedin: bacarson
+title: Java Developer
 ---
